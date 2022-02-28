@@ -1,0 +1,156 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true account of the proceedings against John Ayloff, and Richard Nelthorp Esquires at the King's-[B]ench-Bar,</title>
+            <author>Ayloffe, John, d. 1685.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94883</idno>
+            <idno type="STC">Wing T2391</idno>
+            <idno type="STC">ESTC R204284</idno>
+            <idno type="EEBO-CITATION">43077705</idno>
+            <idno type="OCLC">ocm 43077705</idno>
+            <idno type="VID">151818</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94883)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151818)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2277:30)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true account of the proceedings against John Ayloff, and Richard Nelthorp Esquires at the King's-[B]ench-Bar,</title>
+                  <author>Ayloffe, John, d. 1685.</author>
+                  <author>Nelthorpe, Richard, d. 1685.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>By the heir of Andrew Anderson, printer to His most Sacred Majesty,</publisher>
+                  <pubPlace>Printed at London, and re-printed at Edinburgh, :</pubPlace>
+                  <date>Anno Dom, 1685.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in: William Andrews Clark Memorial Library, University of California, Los Angeles, California.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Court of King's Bench.</term>
+               <term>Trials (Treason) --  England.</term>
+               <term>Treason --  Great Britain.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb n="1" facs="tcp:151818:1" rendition="simple:additions"/>
+            <head>A TRUE ACCOUNT, OF THE PROCEEDINGS AGAINST <hi>Iohn Ayloff,</hi> AND <hi>Richard Nelthorp</hi> Eſquires AT THE King's-<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ench-Bar,</head>
+            <argument>
+               <p>On the 27th. of <hi>October,</hi> 1685. Relating to their award of Death, upon their being Out-Lawed for <hi>High-Treaſon,</hi> in conſpiring the Death of His late moſt Sacred Majeſty, <hi>Charles</hi> the Second, of ever bleſſed Me<g ref="char:EOLhyphen"/>mory: Together with their Behaviour, Confeſſion, and Manner of Exe<g ref="char:EOLhyphen"/>cution on the 30th. of <hi>October,</hi> in the year aforeſaid: On which day; <hi>Richard Nelthorp</hi> was executed on a Gibbet Erected at <hi>Greys-Inn-Gate</hi> in <hi>Holbourn,</hi> and <hi>John Ayloff,</hi> on a Gibbet Erected at <hi>Chancery-Lane</hi> End in <hi>Fleet-street:</hi> Both Quartered as in Caſe of <hi>High-Treaſon.</hi>
+               </p>
+            </argument>
+            <p>SUch are the horrid Crimes of Treaſon and Murder, that by daily experience we ſee they ſeldom go unpuniſhed, even in this life: The Wiſe Man gives wholſome advice, when he fore-warns men <hi>to take heed they do not curſe the King, altho' it be in their ſecret Cham<g ref="char:EOLhyphen"/>bers, leſt the Fowles of the Air make diſcovery thereof:</hi> much more ought men to tremble at the thoughts of any undertaking againſt the life of Gods Vicegerent. It is a horrid murder for a private man to compaſs the Death of his Father; and much more horrid the Father of his Countrey; for al<g ref="char:EOLhyphen"/>tho', men may think to flee out of one Country into another, and ſecure themſelves from the vengeance due to ſuch Crimes, yet Providence ſo or<g ref="char:EOLhyphen"/>ders it, that thoſe very methods they take for their ſecurity, commonly brings them to Juſtice, as we have a freſh Example of the perſons now brought thereto.</p>
+            <p>
+               <hi>John Ayloff</hi> and <hi>Richard Nelthorp</hi> Eſquires, men whoſe Education is a<g ref="char:EOLhyphen"/>gainſt them, and who were not ignorant of the Law; yet having once violated the ſame, by joyning in the horrid Conſpiracy againſt the life of
+<pb n="2" facs="tcp:151818:2"/>the mercifulleſt of Kings, his late Majeſty of ever bleſſed memory, his pre<g ref="char:EOLhyphen"/>ſent Majeſty, the utter ſubverſion of the Government, <hi>&amp;c.</hi> They were not content, by fleeing from Juſtice, to live in contempt of the Law, but to imploy that time God permitted for their Repentance, in the enterprize of freſh Treaſons againſt his moſt Sacred Maieſty that now is.</p>
+            <p>
+               <hi>John Ayloff</hi> took his lot with the late Earl of <hi>Argyle</hi> ſetting up for one of the Rulers of the <hi>Scottiſh</hi> Common-wealth, and after the deſign was blaſt<g ref="char:EOLhyphen"/>ed, and he amongſt others taken, the ſence of his Guilt run him forth<g ref="char:EOLhyphen"/>with upon the Rock of Deſpair, by laying violent hands upon himſelf, and with a Pen-knife, or other Inſtrument which he carried about him, he rips up his own belly as far as Nature would ſuffer him; but God in Mercy to his Soul, ſo ordered it, that he did not Dye thereof, but after a long illneſs Recovered, and was with others of thoſe Traitors brought for <hi>England,</hi> and ſoon after committed to <hi>Newgate,</hi> where he remained Eight or Ten Weeks.</p>
+            <p>
+               <hi>Richard Nelthorp,</hi> a Perſon brought up to the Law, but leaving that Study engaged in the <hi>Rye</hi>-houſe conſpiracy, and with the ſaid <hi>Ayloff</hi> be<g ref="char:EOLhyphen"/>ing ſince attainted by Our Lawry of <hi>High-Treaſon,</hi> was of thoſe who came over with the late Duke of <hi>Monmouth,</hi> and one of the principal Captains in that Weſtern Rebellion. Soon after the defeat of the Rebels, being ta<g ref="char:EOLhyphen"/>ken and committed to ſome Goal in the <hi>Weſt</hi> Countrey, was from thence brought to <hi>Newgate,</hi> where his Crimes had little better Effect (then the other in <hi>Scotland</hi>) behaving himſelf for ſome time like a Perſon diſtracted, and very impatient under the ſufferings which his <hi>Treaſon</hi> had brought u<g ref="char:EOLhyphen"/>pon him.</p>
+            <p>On <hi>Munday</hi> the 26th. of <hi>October,</hi> 1685. Upon the motion of the King's Council, a <hi>Habeas Corpus</hi> was granted, to bring up theſe two Criminals to the <hi>Kings-Bench-Bar</hi> at <hi>Weſtminſter,</hi> and being accordingly on <hi>Tueſday</hi> the 27th. <hi>Ditto,</hi> brought up by the Keeper of <hi>Newgate</hi> to the ſaid <hi>Bar.</hi> The Lord Chief Juſtice <hi>Herbert,</hi> and the other Judges of that Court ſitting on the Bench.</p>
+            <p>Firſt, Mr. <hi>Ayloff</hi> was called to hold up his hand, and told that he had been Indicted by the Name of <hi>John Ayloff</hi> late of <hi>London</hi> 
+               <abbr>Eſq</abbr> for <hi>High-Treaſon</hi> in conſpiring the Death of his late Maieſty, the ſubverſion of the Government, <hi>&amp;c.</hi> That he had thereupon been Out-Law'd, and ſtood attainted of <hi>High-Treaſon,</hi> was therefore askt what he had to ſay why Judgement ſhould not be awarded, for him to dye according to Law.</p>
+            <p>To which Mr. <hi>Ayloff</hi> at firſt replyed he had been out of the Land and did not know of it, at laſt ſaid, that he had ſeen or heard only of a print<g ref="char:EOLhyphen"/>ed Tryal of Captain <hi>Walcot,</hi> wherein Mr. <hi>Weſt</hi> had made ſome mention of him; but he deſired to know what was ſworn againſt him by the Witneſſes.</p>
+            <p>Then the ſame Method being uſed to Mr. <hi>Nelthorp,</hi> he anſwered very little, only ſaid he had not conſpired the Death of the King.</p>
+            <pb n="3" facs="tcp:151818:2"/>
+            <p>After that, the Lord Chief Juſtice in an Excellent Speech, declaring that it was no hard caſe for Traitors to be Executed upon an Outlawry and how inexcuſable they of all men were, who had not only fled from Juſtice, deprived themſelves of a Tryal, by ſtanding in contempt of the Law, but ingaged ſince in other Treaſons and Rebellions: his Lordſhip alſo giving them divers Chriſtian Admonitions to improve the ſhort time they had left for the good of their Immortal Souls.</p>
+            <p>In concluſion told them, that nothing remained for that Court but to award Judgement upon the Outlawries. And a Rule was made for their Execution on <hi>Friday</hi> the 30th day of the ſaid Moneth, as in Caſes of High Treaſon.</p>
+            <p>Mr. <hi>Ayloff</hi> then deſired he might have the liberty of his Friends coming to him, and the ſame being granted, provided it was in the preſence of a Keeper, they were remanded to <hi>Newgate.</hi>
+            </p>
+            <p>On <hi>Thurſday</hi> the 29th <hi>Ditto,</hi> one of His Majeſties Council moved the Court of King's-Bench, that whereas a Rule was made for the Execution of the ſaid <hi>John Ayloff</hi> and <hi>Richard Nelthorp</hi> as the next day; for a more publick Example, one of them, <hi>viz. Ayloff</hi> might be Executed over a<g ref="char:EOLhyphen"/>gainſt the <hi>Temple-Gate</hi> in <hi>Fleet-street,</hi> and <hi>Nelthorp</hi> againſt <hi>Grayes-Inn</hi> in <hi>Holborun,</hi> to which Inns of Courts they did formerly belong when they Studied the Law; and the Court ordered it to be done accordingly.</p>
+            <p>Purſuant to which Rules of Court on <hi>Friday</hi> the 30th <hi>Ditto</hi> about ten in the Forenoon, firſt <hi>Richard Nelthorp</hi> was drawn from <hi>Newgate</hi> on a Sled, to a Gibbet erected over againſt <hi>Grays Inn Gate;</hi> he had on a Black Sute, and two in Black Habit went by the Sled, <hi>viz.</hi> on each ſide one. After it followed an Elderly Perſon alſo in Mourning, he was but a ſhort time at the Gibbet before Executed, he ſpoke to ſeveral that were near him with a ſeeming cheerfulneſs, Praying alſo with great earneſtneſs, and to appearance at this laſt moment of his Life ſubmitted with greater pa<g ref="char:EOLhyphen"/>tience to the puniſhments which his Treaſonable Practices had brought upon him, then he did during his Impriſonment; very readily, addreſſing himſelf to undergo the Sentence which the Law had pronounced. He had on a white Sattin Cap over a Linnen one, and himſelf helped to pull it down over his Face. Being turned off, he Hanged the uſual time, and then was Quartered, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>John Ayloff,</hi> by ſome called Collonel <hi>Ayloff,</hi> according to the Rule of Court made for his Execution, was delivered by the Keeper of <hi>Newgate</hi> on the 30th of <hi>October</hi> to the Sheriffs of <hi>London</hi> and <hi>Middleſex,</hi> between Ten and Eleven in the Morning; when being put into a Slead; he was conveyed through the <hi>Old-Bayly</hi> and <hi>Fleet-ſtreet</hi> to a Gibbet Erected between <hi>Chancery-Lane</hi> End, and one of the <hi>Temple Gates,</hi> where upon his arrival being in the Slead, he confeſſed that he was in the Rebellion raiſed by <hi>Argile</hi> in <hi>Scotland,</hi> and was Conſcious of the late Conſpiracy, that he ſuffered juſtly and deſervedly, Praying for the King, and de<g ref="char:EOLhyphen"/>ſiring the Prayers of all People, but more eſpecially of thoſe that were
+<pb n="4" facs="tcp:151818:3"/>ſpectators; after which &amp; the like Expreſſions, he came out of the Slead again, &amp; deſired God to bleſs all preſent, lifting up his hands &amp; eyes towards Heaven, when looking upon the Gibbet he aſcended, and in aſcending, repeated his Prayers for the People, Praying to God to keep them in the right way of Loyalty and Obedience, <hi>&amp;c.</hi> and to preſerve the Pro<g ref="char:EOLhyphen"/>teſtant Religion; being aſcended, he prayed a while to himſelf, and turn<g ref="char:EOLhyphen"/>ing at the requeſt of the Executioner, his Back to the Ladder, he ſaid that he was now willing to dye, but bid the Executioner not to turn him off till he gave notice: the ſignal being the lifting up his hands; when being bid to go ſomewhat lower on the rounds of the Ladder, the ſooner to put him out of his pain, when turned off, he after having pray<g ref="char:EOLhyphen"/>ed a while, ſaid he was ready, biding the Executioner turn him off, which was accordingly done, when having hang'd about half an hour, he was cut down and quarter'd according to Sentence, and his Quarters to be diſpoſed of, at the pleaſure of the King.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed at <hi>London,</hi> and Re-printed at <hi>Edinburgh,</hi> by the Heir of <hi>Andrew Anderſon,</hi> Printer to His moſt Sacred Majeſty. <hi>Anno Dom,</hi> 1685.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
